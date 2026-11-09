@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 
 
 I’m a software developer based in Portsmouth, UK, with three years of commercial development experience and an MSc in Artificial Intelligence & Machine Learning from the University of Portsmouth.
 
